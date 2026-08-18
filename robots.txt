@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moodkaser-arch.github.io/global-umbrella/sitemap.xml
